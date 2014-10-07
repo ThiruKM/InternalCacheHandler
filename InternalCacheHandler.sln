@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalCacheHandler", "Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalCacheHandlerWebFormDemo", "WebApplication1\InternalCacheHandlerWebFormDemo.csproj", "{901F04BB-D07D-4B6B-A2F9-F3A5A3E4A71E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalCacheMVCDemo", "..\..\..\InternalCacheMVCDemo\InternalCacheMVCDemo\InternalCacheMVCDemo.csproj", "{3510A5BC-B03A-4B86-96EB-9C04CC8CD7A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalCacheMVCDemo", "InternalCacheMVCDemo\InternalCacheMVCDemo\InternalCacheMVCDemo.csproj", "{3510A5BC-B03A-4B86-96EB-9C04CC8CD7A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
