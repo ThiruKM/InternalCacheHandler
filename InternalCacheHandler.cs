@@ -186,7 +186,7 @@ namespace Utilities.Web.HttpHandlers
                         var resultBytes = getBytesMethodInfo.Invoke(buffer, null) as byte[];
                         if (resultBytes != null)
                         {
-                            result += Encoding.Default.GetString(resultBytes);
+                            result += HttpUtility.HtmlEncode(Encoding.Default.GetString(resultBytes));
                         }
                     }
 
